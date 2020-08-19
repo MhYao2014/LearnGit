@@ -5,3 +5,5 @@ if __name__ == "__main__":
 	print(f"这一行是第{2}次commit时加入的。")
 	print(f"再做一次提交，但是争取用rebase将上一次的提交记录删除掉。")
 	print("这一行讲道理会和dev中的提交冲突。")
+	print(f"这是第{4}次dev4分支提交的改动。")
+	print(f"这一行是第{2}次commit时加入的。")
